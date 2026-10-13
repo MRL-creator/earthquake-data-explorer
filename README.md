@@ -8,7 +8,15 @@ The default view is a static snapshot of **396 real USGS ComCat events from 2025
 
 ## Preview
 
+![Recorded walkthrough: bundled catalog, magnitude filter, and analysis](assets/walkthrough.gif)
+
+The walkthrough uses the bundled 2025 Q1 USGS snapshot: start with 396
+events, raise the minimum reported magnitude to 6.0 to select 22 events,
+then inspect the updated distributions. It runs without a USGS network query.
+
 ![Earthquake Data Explorer dashboard](assets/dashboard.png)
+
+See [demo hosting](docs/demo-hosting.md) to deploy the same application.
 
 ## Features
 
