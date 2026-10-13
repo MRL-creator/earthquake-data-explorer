@@ -1,5 +1,7 @@
 # Earthquake Data Explorer
 
+[![CI](https://github.com/MRL-creator/earthquake-data-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/MRL-creator/earthquake-data-explorer/actions/workflows/ci.yml)
+
 **An offline-capable earthquake catalog workstation** for mapping reported epicenters, inspecting event records, and summarizing magnitude, depth, and temporal patterns.
 
 The default view is a static snapshot of **396 real USGS ComCat events from 2025 Q1 with reported M ≥ 5**. Live queries use the USGS FDSN Event Web Service. The bundled sample keeps the explorer useful without a network connection.
