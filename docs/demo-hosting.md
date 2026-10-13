@@ -1,5 +1,7 @@
 # Hosting the public demo
 
+Public deployment: https://mrl-earthquake-explorer.streamlit.app/
+
 The application starts with its bundled 2025 Q1 USGS catalog snapshot. No
 API key, credentials, or live catalog request is needed to open the dashboard.
 
